@@ -20,10 +20,11 @@ This repository contains the source code for the paper [Pix2Vox: Context-aware 3
 
 ## Datasets
 
-We use the [ShapeNet](https://www.shapenet.org/) and [Pix3D](http://pix3d.csail.mit.edu/) in our experiments, which are available below:
+We use the [ShapeNet](https://www.shapenet.org/) ,[PASCAL3D]( https://cvgl.stanford.edu/projects/pascal3d.html )and [Pix3D](http://pix3d.csail.mit.edu/) in our experiments, which are available below:
 
 - ShapeNet rendering images: http://cvgl.stanford.edu/data2/ShapeNetRendering.tgz
 - ShapeNet voxelized models: http://cvgl.stanford.edu/data2/ShapeNetVox32.tgz
+- PASCAL3D images:[ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.1.zip](ftp://cs.stanford.edu/cs/cvgl/PASCAL3D+_release1.1.zip)
 - Pix3D images & voxelized models: http://pix3d.csail.mit.edu/data/pix3d.zip
 
 ## Pretrained Models
